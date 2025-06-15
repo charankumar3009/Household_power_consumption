@@ -41,6 +41,3 @@ Energy usage is a significant cost and environmental factor for households. This
 
 ---
 
-## Appendix
-
-*(Insert relevant figures, tables, or extended analysis here, including visualizations from your analysis if desired.)*
