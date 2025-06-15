@@ -41,7 +41,6 @@ Efficient energy management is crucial for reducing both household expenses and 
 - **Outliers:** Occasional spikes suggest possible appliance inefficiency or unique household activities.
 - **Voltage Correlation:** Weak or negligible correlation between voltage and power consumption.
 - **Weekend Effect:** Consumption drops slightly on weekends.
-- *(Insert images/figures below for each insight if available)*
 
 
 ![Daily Consumption](images/notebook/output_5_0.png)
