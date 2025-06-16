@@ -39,5 +39,5 @@ Energy usage is a significant cost and environmental factor for households. This
 - **Focus on Evenings:** Apply energy-saving strategies during peak evening hours.
 - **Continuous Tracking:** Use data visualization tools for ongoing monitoring and optimization.
 
----
+
 
